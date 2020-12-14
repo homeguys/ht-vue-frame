@@ -8,9 +8,9 @@
           marginRight: '12px',
         }"
       >
-        Primary
+        Primary567
       </a-button>
-      <a-button type="danger"> Primary </a-button>
+      <a-button type="danger"> Primary567 </a-button>
     </section>
     <section class="content">content</section>
   </div>
