@@ -1,7 +1,7 @@
 /*
  * @Author: 王磊
  * @Date: 2020-11-23 09:35:27
- * @LastEditTime: 2020-12-14 10:47:23
+ * @LastEditTime: 2020-12-14 10:54:49
  * @LastEditors: 王磊
  * @Description: webpack配置，覆盖vue脚手架内置webpack配置
  * @FilePath: \vue.config.js
